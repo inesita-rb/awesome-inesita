@@ -1,6 +1,6 @@
 # Awesome Inesita ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-List of applications witten in [Inesita](https://github.com/inesita-rb/inesita)
+### List of applications witten in [Inesita](https://github.com/inesita-rb/inesita)
 
  - Asciify Me: [Live demo 👀](https://inesita-asciify-me.netlify.com/) · [source code 📖](https://github.com/inesita-rb/asciify-me)
  - DBMonster: [Live demo 👀](http://inesita-dbmonster.netlify.com/) · [source code 📖](https://github.com/inesita-rb/dbmonster)
@@ -10,6 +10,6 @@ List of applications witten in [Inesita](https://github.com/inesita-rb/inesita)
  - TodoMVC: [Live demo 👀](http://inesita-todomvc.netlify.com/) · [source code 📖](https://github.com/inesita-rb/todomvc)
  - WebAudio Playground: [Live demo 👀](http://inesita-web-audio.netlify.com/) · [source code 📖](https://github.com/fazibear/web-audio-playground)
 
-## Contribution
+### Contribution
 
 Your contributions and suggestions are welcome ♡.
