@@ -2,7 +2,7 @@
 
 ### List of applications written in [Inesita](https://github.com/inesita-rb/inesita)
 
- - Asciify Me: [Live demo 👀](https://inesita-asciify-me.netlify.com/) · [source code 📖](https://github.com/inesita-rb/asciify-me)
+ - Asciify Me: [Live demo 👀](https://asciifyme.fazibear.me/) · [source code 📖](https://github.com/inesita-rb/asciify-me)
  - DBMonster: [Live demo 👀](http://inesita-dbmonster.netlify.com/) · [source code 📖](https://github.com/inesita-rb/dbmonster)
  - Example Application: [Live demo 👀](http://inesita-playground.netlify.com/) · [source code 📖](https://github.com/inesita-rb/playground)
  - Inesid: [Live demo 👀](http://inesid.surge.sh/) · [source code 📖](https://github.com/fazibear/inesid)
