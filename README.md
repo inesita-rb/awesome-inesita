@@ -2,8 +2,8 @@
 
 ## Inesita
 
-[documentation 📚](https://inesita-rb.github.io/)
-[source code 📖](https://github.com/inesita-rb/inesita)
+ - [documentation 👀](https://inesita-rb.github.io/)
+ - [source code 📖](https://github.com/inesita-rb/inesita)
 
 ### Addons
 
