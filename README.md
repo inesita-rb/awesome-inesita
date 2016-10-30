@@ -10,7 +10,7 @@
  - Live Reload · [source code 📖](https://github.com/inesita-rb/inesita-livereload)
  - Router · [source code 📖](https://github.com/inesita-rb/inesita-router)
 
-### Applications written in [Inesita](https://github.com/inesita-rb/inesita)
+### Applications
 
  - Asciify Me · [Live demo 👀](https://asciifyme.fazibear.me/) · [source code 📖](https://github.com/fazibear/asciify-me)
  - DBMonster · [Live demo 👀](http://inesita-dbmonster.netlify.com/) · [source code 📖](https://github.com/inesita-rb/dbmonster)
